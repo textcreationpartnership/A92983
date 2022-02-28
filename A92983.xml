@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several letters of great consequence intercepted by Colonel Milton, near Ruthyn in VVales, concerning Irish forces to be brought into England, with other matters of great consequence. Together with a letter sent out of Ireland, to Mr. Pierrepont a member of the House of Commons, concerning the passage, imprisonment, and enlargement of the Earl of Glamorgan: all which were read in the House of Commons. Ordered by the Commons assembled in Parliament, that these letters be forthwith printed and published. H. Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92983</idno>
+            <idno type="STC">Wing S2778</idno>
+            <idno type="STC">Thomason E322_32</idno>
+            <idno type="STC">ESTC R200587</idno>
+            <idno type="EEBO-CITATION">99861299</idno>
+            <idno type="PROQUEST">99861299</idno>
+            <idno type="VID">159541</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159541)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E322[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several letters of great consequence intercepted by Colonel Milton, near Ruthyn in VVales, concerning Irish forces to be brought into England, with other matters of great consequence. Together with a letter sent out of Ireland, to Mr. Pierrepont a member of the House of Commons, concerning the passage, imprisonment, and enlargement of the Earl of Glamorgan: all which were read in the House of Commons. Ordered by the Commons assembled in Parliament, that these letters be forthwith printed and published. H. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Mitton, Thomas, 1597?-1656.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husband, printer to the Honorable House of Commons, and are to be sold at his shop at the signe of the Golden Dragon in Fleetstreet, neer the Inner-Temple.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Feb. 17. 1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Colonel Milton = Thomas Mitton.</note>
+                  <note>Wing has publication year 1645[6]; Thomason catalogue lists under 1646.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  Politics and government --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159541:1" rendition="simple:additions"/>
+            <p>SEVERAL LETTERS Of great Conſequence INTERCEPTED BY Colonel <hi>Milton,</hi> neer <hi>Ruthyn</hi> IN VVALES, Concerning <hi>Iriſh</hi> Forces to be brought into <hi>England,</hi> and other matters of great conſequence.</p>
+            <p>Together with a LETTER ſent out of <hi>Ireland,</hi> to Mr. <hi>Pierrepont</hi> a Member of the Houſe of Commons, concerning the Paſſage, Impriſonment, and Enlargement of the Earl of <hi>Glamorgan:</hi>
+            </p>
+            <p>All which were Read in the Houſe of COMMONS.</p>
+            <p>
+               <hi>ORdered by the Commons aſſembled in Parliament, That theſe</hi> Letters <hi>be forthwith Printed and Publiſhed.</hi>
+            </p>
+            <p>H. Elſynge, Cler. Parl. D. Com.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edw. Husband,</hi> Printer to the Honorable Houſe of Commons, and are to be ſold at his Shop at the ſigne of the Golden Dragon in Fleetſtreet, neer the Inner-Temple. <hi>Feb.</hi> 17. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159541:2"/>
+            <pb n="3" facs="tcp:159541:2"/>
+            <head>To the Honorable <hi>William Lenthal</hi> 
+               <abbr>Eſq</abbr> Speaker in the Houſe of Commons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Acknowledge with all humble thankfulneſs, the favour of the Honourable Houſe of Commons, in truſting me with your Service in theſe parts, and hold it my duty, not one<g ref="char:EOLhyphen"/>ly to perform that truſt to the uttermoſt of my power in action, but alſo upon all occa<g ref="char:EOLhyphen"/>ſions to repreſent unto you the ſtate of the Affairs here; in purſuance whereof, I have now diſpatched Mr. <hi>Fogg</hi> my Chaplain with ſome Letters which I met withal here, who alſo can acquaint you with the cauſe and particular occur<g ref="char:EOLhyphen"/>rents ſince my coming hither, and will readily return unto me what further Commands you ſhall pleaſe to lay upon me. The main end of my coming hither was, to finde out the Lord <hi>St. Pauls</hi> Forces, and to prevent his conjunction with the Lord <hi>Aſhley;</hi> but perceiving him to decline me, and to retreat to <hi>Fanruſt,</hi> being a Paſs into <hi>Carnarvanſhire,</hi> where I am credibly informed he is now with his Forces: I have choſen rather to ſtay here, then to advance any further toward him, he being Maſter of that Paſs, and ſo may ſe<g ref="char:EOLhyphen"/>cure himſelf: If I ſhould march up to him, my being here I hope will keep him from either joyning with <hi>Aſhley,</hi> or any way annoy the Leaguer before <hi>Cheſter;</hi> and withal, I am certainly informed that this Caſtle is in a low condition, wanting both Ammunition and Fewel. The Governour be<g ref="char:EOLhyphen"/>fore my coming hither, being gone to <hi>Conway</hi> for a ſupply of Powder, hoping that in caſe I be not called away upon other occaſions toward <hi>Chester,</hi> unto which all my deſignes ſhalbe ſubſervient. I hope by Gods bleſſing not to make any long work of it.</p>
+            <closer>
+               <dateline>
+                  <hi>Ruthin,</hi> 
+                  <date>2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. of <hi>Jan.</hi> 1645.</date>
+               </dateline>
+               <signed>Your humble ſervant <hi>Tho. Mitton.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:159541:3"/>
+            <head>For His Highneſſe the Duke of <hi>York.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Highneſſe,</salute>
+            </opener>
+            <p>HAving received intelligence of your being at <hi>Worcester,</hi> and a diſpatch now going to His Majeſty, I hold it my duty to acquaint Your Highneſſe with a report brought hi<g ref="char:EOLhyphen"/>ther, or perhaps framed here, That your intention is to come into this Kingdom, a thing ſo unprobable, that I can give no credit unto it; yet I hold it my duty as well to His Ma<g ref="char:EOLhyphen"/>jeſty as Your Highneſſe, to inform you, That as yet there is no Peace concluded here, and that thorough an accident lately faln out (wherein the Earl of <hi>Glamorgan</hi> hath a part) His Majeſties Affairs here, and all His Servants, are not one<g ref="char:EOLhyphen"/>ly upon very great uncertainty, but in apparant and continual danger of ſurpriſe and diſtreſſe, as well by the <hi>Iriſh</hi> as by the Covenanters in the North, and other parts of this Kingdom, all which is now advertiſed to His Majeſty, and therefore if any ſuch intention of Your Highneſſe coming into this Kingdom ſhould be (which I take to be impoſſible) I humbly offer, whether Your Highneſſe may not hold it fit to expect His Majeſties further pleaſure, which He may declare upon the knowledge He will receive of the ſtate of Things here, by the diſpatch that goes herewith before any ſuch danger<g ref="char:EOLhyphen"/>ous adventure of Your Highneſſe Perſon, as You muſt in ſuch caſe undergo in Your coming, and during Your High<g ref="char:EOLhyphen"/>neſſe abode here. I humbly beſeech Your Highneſſe to par<g ref="char:EOLhyphen"/>don the impertinence of this firſt addreſſe to Your Highneſſe from</p>
+            <closer>
+               <dateline>
+                  <hi>His Majeſties Caſtle of</hi> Dublin, <date>the 19. of <hi>Jan.</hi> 1645.</date>
+               </dateline>
+               <signed>Your Highneſſe moſt faithful and moſt humble Servant <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rmond.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:159541:3"/>
+            <head>To his much honoured and worthy friend Sir <hi>John Wats</hi> Knight, Governour of <hi>Cher<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Caſtle.</head>
+            <opener>
+               <salute>Noble Governour,</salute>
+            </opener>
+            <p>I Thank you for this, and all other courteſies; be pleaſed to read, and then to Seal this incloſed, and you ſhall there<g ref="char:EOLhyphen"/>by underſtand, all I am able to ſay of this great buſineſſe, which God Almighty proſper.</p>
+            <p>Col. <hi>Butler,</hi> who will be with you at or before this Letter, will import all the News of <hi>Ireland:</hi> He is a ſervant in or<g ref="char:EOLhyphen"/>dinary of the Queens. And ſo beſeeching God to bleſſe you, I remain, Noble Governour,</p>
+            <closer>
+               <dateline>
+                  <hi>Conway,</hi> 
+                  <date>25. of <hi>Ian.</hi> 1645.</date>
+               </dateline>
+               <signed>Your affectionate friend and ſervant, <hi>Io. Eborac.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the Right Worſhipful, his worthy Friend, Maſter Doctor <hi>Lloyd Warden</hi> of <hi>Ruthin.</hi>
+            </head>
+            <p>MAſter Doctor, I thank you for your Letter, and will ſatisfie the Bearer: And I beſeech you to return theſe Letter, to the Noble Governour, The Duke of <hi>York,</hi> to be ſent him, as ſoon as may well be; for in <hi>Ireland</hi> they will not be gain-ſaid, but that he is at <hi>Ludlow.</hi> The Boat ſtayeth, I thank you good Doctor, and am</p>
+            <closer>
+               <dateline>
+                  <hi>Conway,</hi> 
+                  <date>25. of <hi>Ian.</hi> 1645.</date>
+               </dateline>
+               <signed>Your affectionate friend, <hi>Ioh. Eborac.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the Right Honorable the Lord <hi>Aſhley.</hi>
+            </head>
+            <opener>
+               <salute>Moſt noble Lord,</salute>
+            </opener>
+            <p>YOur Lordſhips Letter of the 12. of <hi>January,</hi> I received late at night, the 24 of the ſame moneth. I have commu<g ref="char:EOLhyphen"/>nicated to the Lord <hi>Byron,</hi> the Lord Marqueſſe of <hi>Ormond</hi>
+               <pb n="6" facs="tcp:159541:4"/>his Letter of the 12. of <hi>Decemb.</hi> and by this time (not ſooner) the Lord <hi>Byrons</hi> Anſwer is at <hi>Dublin,</hi> which I ſent by his Lordſhips Chaplain. It implyed ſome fears of holding out <hi>Cheſter,</hi> thus long: Col. <hi>Butler</hi> tells me even now, that the men and ſhipping are ſtill ready in <hi>Ireland,</hi> though retarded hitherto by reaſon of this diſtraction; which ſithence Tueſ<g ref="char:EOLhyphen"/>day laſt, is ſo compoſed, that the Earl of <hi>Glamorgan</hi> is out upon Bayl of ſix or eight Noble men, whereof the Lord Marqueſſe of <hi>Clenrickard</hi> is one. From the Lord Lieutenant I have received no Anſwer in writing as yet (though my Letters to his Excellency were many ſithence the firſt of <hi>January</hi>) nor from the Lord <hi>Digby</hi> any more to the purpoſe, then this encloſed.</p>
+            <p>There is, Noble Lord, no relyings upon theſe <hi>Iriſh</hi> Forces for this Service, though if they come, they ſhall be carefully tranſpoſed to ſuch a Rendezvouz, as I ſhall hear is moſt fit<g ref="char:EOLhyphen"/>ting for the paſſage of your Lordſhips Army: And for that end, your Lordſhip ſhall ſurely be punctually informed of their landing, and condition.</p>
+            <p>In the mean time, it is fit your Lordſhip ſhould under<g ref="char:EOLhyphen"/>ſtand, that under Colonel <hi>Gilbert Byron,</hi> the Lord of <hi>St. Paul</hi> is in theſe parts in the head of 600 (as he ſaith) but I beleeve of 500 Horſe and Foot, good men and well Armed, to be directed and imployed by your Lordſhip. Next that, that Lieut. Col. <hi>Roger Morton</hi> is landed with a peece of a Regi<g ref="char:EOLhyphen"/>ment (ſome 160 as Col. <hi>Butler</hi> tells me) of the Lord <hi>Digbies</hi> rais'd in <hi>Ireland</hi> of <hi>Engliſh,</hi> and ſome <hi>Lorainneſes,</hi> and he will be able to make it up 200 upon his own credit (a Commiſſi<g ref="char:EOLhyphen"/>oner of <hi>Array</hi> and <hi>Peace</hi> in this County) and will be, after a day or two his refreſhment, at your Lordſhips diſpoſe.</p>
+            <p>I conceive your Lordſhip will receive better Information then I can give you, of the Forces that our Garriſons are able to afford, from the worthy Governour of <hi>Cherb.</hi> But I have it from good and knowing hands, that the Armed and
+<pb n="7" facs="tcp:159541:4"/>Fighting men in <hi>Cheſter</hi> are above 4000, whereof many may iſſue forth. I pray God heartily (as I have cauſe) to bleſſe and proſper your Lordſhips honourable deſigne: and deſire your Lordſhip to eſteem of me, as of one, who hath long loved your Lordſhip, and may truely write myſelf,</p>
+            <closer>
+               <dateline>
+                  <hi>Conway,</hi> 
+                  <date>this 25. of <hi>Ianuary,</hi> 1645.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt affectionate and humble ſervant, <hi>Ioh. Eborac.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>I have imported your Lordſhips Letter, and Sir <hi>John Wats</hi> to Col. <hi>Gilbert Byron,</hi> to be ſent to <hi>Chester.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>May it pleaſe your Grace,</salute>
+            </opener>
+            <p>I Give you very many humble thanks for your obliging Letter by Maſter <hi>Moor:</hi> I have likewiſe ſent yours to the Marqueſſe of <hi>Ormond;</hi> and I am glad to finde there, that you do not take the Alarm at my Lord of <hi>Glamorgans</hi> com<g ref="char:EOLhyphen"/>mitment ſo hot, as upon it to deſpair of the relief of <hi>Chester;</hi> which, though it hath been ſomewhat retarded by it, yet I make little queſtion now, but it will go on ſpeedily and ef<g ref="char:EOLhyphen"/>fectually: And of this I deſire you to certifie my L. <hi>Byron,</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Dublin,</hi> 
+                  <date>the 21. of <hi>Ian.</hi> 1645.</date>
+               </dateline>
+               <signed>Your Graces moſt affectionate humble ſervant, <hi>George Digby.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>For the Honourable <hi>William Pierpoint</hi> Eſquire.</head>
+            <opener>
+               <salute>Honourable Sir,</salute>
+            </opener>
+            <p>I Send you herewith another copy of the Articles taken in the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Tuam</hi>'s Pocket, becauſe we finde that many of our Letters do miſcarry; and we are not in caſe to ſend expreſſes till the Ship with the Money come to us: Her ſtay is a very great prejudice to the Service; for if ſhe had been here, we had prevailed with the Britiſh to ſend a 1000 men into <hi>Connaught,</hi> and you will perceive by the in<g ref="char:EOLhyphen"/>cloſed from the Preſident there, what he would expect to do if he had them. We thought it was of concernment, to let the good party at <hi>Dublin</hi> ſee how they were bought and ſold; and therefore ſent ſome Copies of the incloſed Articles to them, who made ſuch an uproar:
+<pb n="8" facs="tcp:159541:5"/>That the Lord <hi>Digby</hi> diſclaimed the thing, and ſaid, The King would not yeeld to them to ſave his Crown, and his life; and that if any ſuch thing were gotten, it was procured ſurrepticiouſly; and therefore ac<g ref="char:EOLhyphen"/>cuſed the Earl of <hi>Glamorgan</hi> of Treaſon, and accordingly he was committed the 26 of the laſt to the Caſtle of <hi>Dublin.</hi> This in all ap<g ref="char:EOLhyphen"/>pearance was done to pacifie the people; for a friend writes that he might have been releaſed of his cloſe impriſonment within two dayes after, if he would have acknowledged that he proceeded in it without Warrant, but he juſtifies the Act, and ſo remains a priſoner.</p>
+            <p>I have written to you ſeveral times, that the <hi>Derry</hi> cannot be ſecured till there be ſome power to diſplace Malignant Captains of that Regi<g ref="char:EOLhyphen"/>ment; and if the Scotch Commiſſioners ſhould now come, the Ordi<g ref="char:EOLhyphen"/>nance is expired the third of this Moneth. I hope you are providing of a Deputy, who may eaſily cure all the diſtempers of this Army.</p>
+            <p>I wrote to you formetly, that I was going into <hi>Connaught,</hi> and had been gone before this, but the Froſt and Snow was ſo great, that I could not well travel. This day, God pleaſed, I begin my journey, and do hope, God aſſiſting, to make it uſeful to the publike.</p>
+            <p>I beleeve a long Letter will be troubleſome to you, and therefore I will not detain you longer from reading the Preſident of <hi>Connaughts,</hi> which hath in it very good news: And ſo conclude my ſelf to be</p>
+            <closer>
+               <dateline>
+                  <hi>Bilfaſt,</hi> 
+                  <date>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Ian.</hi> 1645,</date>
+               </dateline>
+               <signed>Your humbleſt ſervant <hi>Robert King</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>We ſhall endeavour to get</hi> 1000 <hi>to go in to</hi> Connaught, <hi>though the Money be not come.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="prodromus">
+            <head>Prodromus Papae.</head>
+            <p>
+               <note place="margin">This was ſent in the Packet with the prece<g ref="char:EOLhyphen"/>dent Letter.</note>THe Stile, Audience and Subſtance of the Oration of the <hi>Popes Nuncio</hi> at <hi>Kilkenny Dominus Iohannes Baptiſta Renuccius.</hi>
+            </p>
+            <p>
+               <hi>Dominus Archicopiſcopus &amp; princeps Farmanuz, apud Confederatos Hiberniae Catholicos Extraordinarius Apoſtolicus Nuncius,</hi>
+            </p>
+            <p>Had Audience at the Caſtle of <hi>Kilkenny</hi> the 19. of <hi>November,</hi> 1645. where he ſhewed his Commiſſion, and declared the Reaſons of his coming, which was onely to eſtabliſh according to his power,</p>
+            <list>
+               <item>1. <hi>The Romane Catholike Religion.</hi>
+               </item>
+               <item>2. <hi>To preſerve their Liberties.</hi>
+               </item>
+               <item>3 <hi>And laſtly, to ſerve their Prince and Soveraign.</hi>
+               </item>
+            </list>
+            <p>Which he did expreſſe with a great deal of ſence and feeling in theſe words, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Et ſereniſsimo vestro principi meipſum devoveo.</hi> Clapping his hand upon his Breſt,</p>
+            <p>But yet, that for their Religion they ſhould fight &amp; maintain it againſt all the world. He ſaid High Maſſe in the Church of <hi>Kilkenny</hi> upon Saint <hi>Andrews</hi> day.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
